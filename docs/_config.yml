@@ -9,7 +9,7 @@ permalink: pretty
 # GitHub Pages에서 저장소 이름이 URL 경로에 붙는 경우가 있습니다.
 # 예: https://username.github.io/repository-name/
 # 배포 후 CSS/JS가 깨지면 baseurl을 "/repository-name"으로 수정하세요.
-baseurl: "/unity-attributes-guide"
+baseurl: ""
 url: "https://jiwoo7158.github.io"
 
 nav:
