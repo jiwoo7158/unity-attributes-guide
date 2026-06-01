@@ -1,0 +1,27 @@
+title: Unity C# Attributes Guide
+description: Unity와 C#에서 [] 형태로 사용하는 어트리뷰트를 한 번에 공부하기 위한 정적 문서 사이트입니다.
+lang: ko-KR
+timezone: Asia/Seoul
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# GitHub Pages에서 저장소 이름이 URL 경로에 붙는 경우가 있습니다.
+# 예: https://username.github.io/repository-name/
+# 배포 후 CSS/JS가 깨지면 baseurl을 "/repository-name"으로 수정하세요.
+baseurl: ""
+url: ""
+
+nav:
+  - title: Home
+    url: /
+  - title: 전체 문서
+    url: /attributes/
+  - title: 치트시트
+    url: /cheatsheet/
+  - title: 헷갈리는 조합
+    url: /confusing-pairs/
+  - title: 실전 예제
+    url: /examples/
+  - title: 배포 방법
+    url: /deploy/
